@@ -7,10 +7,6 @@
 </div>
 
 
-- 🌱 I’m currently studying in **Hschool and IBI**
-
-- 📫 How to reach me **trufanov.vl2013@gmail.com**
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trufjjke&show_icons=true&theme=radical" alt="trufjjke" /></p>
 
 
