@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Truffie</h1>
-<h3 align="center">full stack developer</h3>
+<h1 align="center">Hi there, I'M Truffie👋</h1>
+<h3 align="center">The Fullstack developer</h3>
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,git,nodejs,express,mysql,postgresql)](https://skillicons.dev)
@@ -7,15 +7,16 @@
 </div>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trufjjke&show_icons=true&theme=radical" alt="trufjjke" /></p>
 
 
-<h3 align="center">Codewars stats: </h3>
-<div align="center">
   
-![Codewars](https://github.r2v.ch/codewars?user=truffie&name=true) 
+<p align="left">
+      <img width="467" height="180" src="https://github.r2v.ch/codewars?user=truffie&clan_hide=true&stroke=%23fefefe%0A" />
+<img width="467" height="180" src="https://github-readme-stats.vercel.app/api?username=trufjjke&show_icons=true&theme=radical" alt="trufjjke" />
+</p>
 
-</div>
+  
+
 
 
 
