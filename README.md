@@ -5,7 +5,7 @@
 </h2>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=850&pause=1000&color=4F585F&center=true&vCenter=true&repeat=false&random=false&width=435&height=25&lines=The+full+stack+developer)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1750&pause=1000&color=4F585F&center=true&vCenter=true&repeat=false&random=false&width=435&height=25&lines=The+full+stack+developer)](https://git.io/typing-svg)</div>
 
 <div align="center">
   
