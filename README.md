@@ -17,6 +17,6 @@
   <img width="431" height="180" src="https://github.r2v.ch/codewars?user=truffie&clan_hide=true&stroke=%23fefefe%0A"/>
 </p>
 <p align="left">
-  <img  height="180" src="https://github-readme-stats.vercel.app/api?username=trufjjke&disable_animations=true&show_icons=true&theme=radical" alt="trufjjke" />
+  <img  height="180" src="https://github-readme-stats.vercel.app/api?username=truffie&disable_animations=true&show_icons=true&theme=radical" alt="trufjjke" />
 </p>
   
